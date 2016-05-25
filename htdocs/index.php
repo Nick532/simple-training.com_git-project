@@ -5,5 +5,7 @@
 	
 	echo "Hello new f"
 	echo "branch master";
+	
+	echo "push to github";
 
 ?>
